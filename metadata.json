@@ -1,0 +1,6 @@
+{
+    "name": "Example Token",
+    "symbol": "EXMPL",
+    "description": "Example token for Solana Fndamental Bootcamp." ,
+    "image": "https://github.com/asheint/spl-test-token/blob/94ba5d0227ceae653ea6677c5b5f0c80ec925ed9/tusker.png"
+}
